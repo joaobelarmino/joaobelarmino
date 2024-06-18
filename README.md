@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+world.+🌎👋;Olá,+mundo.+🌎👋;Bonjour+le+monde.🌎👋;Hola+mundo.🌎👋;世界,+您好。🌎👋;Aloha+honua.🌎👋;Привет,+мир.🌎👋;Hallo+Welt.🌎👋&size=28)
 
-***Bem vindo ao meu perfil no Github! Me chamo João sou desenvolvedor Frontend com o foco em ReactJS!*** 👨‍💻 
+***Bem vindo ao meu perfil no Github! Me chamo João e sou desenvolvedor Frontend*** 👨‍💻 
 
 Trabalho como desenvolvedor desde 2021 (na [@Webjump](https://webjump.com.br)), mas desenvolvo desde 2018, quando iniciei minha paixão por frontend. Sou um cara curioso que se interessa pela criação das coisas, principalmente do lado tecnológico, e adoro alcançar a resolução de desafios e me esforço ao máximo para concluir cada um deles.
 
