@@ -2,7 +2,7 @@
 
 ***Bem vindo ao meu perfil no Github! Me chamo João e sou desenvolvedor Frontend*** 👨‍💻 
 
-Trabalho como desenvolvedor desde 2021 (na [@Webjump](https://webjump.com.br)), mas desenvolvo desde 2018, quando iniciei minha paixão por frontend. Sou um cara curioso que se interessa pela criação das coisas, principalmente do lado tecnológico, e adoro alcançar a resolução de desafios e me esforço ao máximo para concluir cada um deles.
+Trabalho como desenvolvedor desde 2024 (na [@Wefit](https://wefit.com.br)), mas desenvolvo desde 2018, quando iniciei minha paixão por frontend. Sou um cara curioso que se interessa pela criação das coisas, principalmente do lado tecnológico, e adoro alcançar a resolução de desafios e me esforço ao máximo para concluir cada um deles.
 
 ## Minhas tecnologias e ferramentas favoritas:
 <div style="display: flex;">
